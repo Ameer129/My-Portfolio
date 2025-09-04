@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live]
+🔗 [View Portfolio Live](ameer-shaiks-portfolio1-34.vercel.app)
 
 ## 🛠️ Tech Stack
 
@@ -24,5 +24,5 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🌟 Credits
 
-This project was created with ❤️ by [Ameer basha Shaik]
+This project was created with ❤️ by [Ameer basha Shaik](ameer-shaiks-portfolio1-34.vercel.app)
 If you like it, feel free to ⭐ this repository and share!
